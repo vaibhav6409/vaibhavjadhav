@@ -47,8 +47,4 @@
 
 - 📧 vaibhavjadhav840790@gmail.com  
 - 📱 +91 8407907460  
-- 🌍 [LinkedIn (optional if you have one)]  
-- 🧾 [Resume / Portfolio Website (if you want to link one)]
-
----
-
+- 🌐  https://www.linkedin.com/in/vaibhav-jadhav-46b51b24a 
