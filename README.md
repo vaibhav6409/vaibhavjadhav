@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Vaibhav Jadhav 👋</h1>
 
 <p align="center">
-  <b>React Native Developer | Mobile & Web | Python | Java | Geo-Spatial Apps</b><br>
-  <br>
+  <b>React Native Developer | Mobile & Web | Python | Java | Geo-Spatial Apps</b><br><br>
   🚀 2.5+ years of experience building cross-platform apps<br>
   📱 Focused on React Native (Android & iOS)<br>
   🌐 Also skilled in JavaScript, Python, ASP.NET, and SQL<br>
@@ -19,6 +18,11 @@
 | Saptpadi | Android  | [Play Store](https://play.google.com/store/apps/details?id=com.saptpadi) |
 | Lalkar   | Android  | [Play Store](https://play.google.com/store/apps/details?id=com.lalkarreactnative) |
 | Happy to Help | Android | [Play Store](https://play.google.com/store/apps/details?id=com.happytohelp) |
+| Gram Geeta | Android | [Play Store](https://play.google.com/store/apps/details?id=com.geotagging) |
+| Evitamin  | Android | [Play Store](https://play.google.com/store/apps/details?id=com.evitamin) |
+| Host | Android | [Play Store](https://play.google.com/store/apps/details?id=com.kashtat.host) |
+
+> 💡 Other Notable Projects: **PNG**, **WS Bakery**, **FNF**, **Quick Scan**, **Tech Care**, **Solving Solilosis**
 
 ---
 
@@ -47,4 +51,5 @@
 
 - 📧 vaibhavjadhav840790@gmail.com  
 - 📱 +91 8407907460  
-- 🌐  https://www.linkedin.com/in/vaibhav-jadhav-46b51b24a 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vaibhav-jadhav-46b51b24a)
+- 
